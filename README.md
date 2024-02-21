@@ -23,4 +23,4 @@
   <a href="https://www.behance.net/SaikenArt" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini/mayabruno20/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mayabruno20/mayabruno20/blob/output/github-contribution-grid-snake.svg)
