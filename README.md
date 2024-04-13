@@ -2,10 +2,10 @@
 
 ### Olá, Eu sou o Bruno Maia! 👋
 
-- 🔭 Atualmente trabalho com desenvolvimento web voltado ao front-end, mas estou me desenvolvendo no back-end também.
-- 🌱 No momento, estou estudando desenvolvimento mobile e me aprimorando em conteúdos relacionados a DB.
+- 🔭 Atualmente trabalho com desenvolvimento web full-stack, voltado para web aplicações.
+- 🌱 No momento, estou estudando desenvolvimento de software e mobile.
 - 🤔 Atualmente procuro oportunidades na area de desenvolvimento, com foco no front-end, mas aceito desafios fullstack!
-- 📫 Contate-me por: Maia.contato17@outlook.com
+- 📫 Contate-me por: Bruno.comercial24@outlook.com
 
    <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
