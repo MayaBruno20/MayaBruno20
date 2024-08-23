@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Olá, Eu sou o Bruno Maia! 👋 <img align="center" alt="Bruno-Js" height="30" width="40" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+### Olá, Eu sou o Bruno Maia! 👋 <img align="center" alt="Bruno-Js" height="30" width="60" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 
 - 🔭 Atualmente trabalho com desenvolvimento web full-stack, voltado para web aplicações.
 - 🌱 No momento, estou estudando desenvolvimento de software e mobile.
